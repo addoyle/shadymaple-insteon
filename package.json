@@ -1,0 +1,11 @@
+{
+  "name": "insteon",
+  "version": "1.0.0",
+  "description": "Control Insteon devices",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "home-controller": "^0.6.0"
+  }
+}
