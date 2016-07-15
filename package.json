@@ -2,10 +2,14 @@
   "name": "insteon",
   "version": "1.0.0",
   "description": "Control Insteon devices",
-  "main": "index.js",
+  "main": "server.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "home-controller": "^0.6.0"
+    "async": "^1.4.2",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "home-controller": "^0.6.0",
+    "underscore": "^1.8.3"
   }
 }
