@@ -1,13 +1,18 @@
 {
 	"outdoor_front": {"id" : "38582b"},
+	"outdoor_garage": {"id" : "43b169"},
 	"outdoor_back": {"id": [ "327211", "385d5a" ]},
 	"landing": {"id": [ "381ad5", "20aa25" ], "dimmable": true},
-	"living_room": {"id": [ "38ceba", "38eddf", "38ecb9" ], "dimmable": true},
+	"living_room": {"id": [ "38ceba", "38eddf" ], "dimmable": true},
+	"entry": {"id": "38ecb9"},
 	"display_case": {"id": "38f6b2"},
 	"dining_room": {"id": "38d2e7", "dimmable": true},
 	"kitchen": {"id": "38d784", "dimmable": true},
 	"laundry_room": {"id": "3c31fa"},
 	"bedroom": {"id": [ "3d8a8e", "3f8b2d" ], "dimmable": true},
 	"garage": {"id": "3e341c"},
-	"studio": {"id": "3c865d", "dimmable": true}
+	"studio": {"id": "3c865d", "dimmable": true},
+        "club": {"id": ["3b2cec", "4307de", "42bdde"], "dimmable": true},
+	"library":{"id": "43084a", "dimmable": true},
+	"cat_room": {"id": "4308ae", "dimmable": true}
 }
